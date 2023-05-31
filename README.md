@@ -1,1 +1,1 @@
-# ShopItem
+# ShopItemClass

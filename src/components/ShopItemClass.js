@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import Button from './Button';
 
-export default class ShopItemFunc extends Component {
+export default class ShopItemClass extends Component {
 	render() {
 		const {item} = this.props;
 		return (
